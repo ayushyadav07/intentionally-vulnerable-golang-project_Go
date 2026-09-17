@@ -176,7 +176,7 @@ require (
 	golang.org/x/tools v0.0.0-20190910221609-7f5965fd7709 // indirect
 	google.golang.org/api v0.9.0 // indirect
 	google.golang.org/genproto v0.0.0-20190819201941-24fa4b261c55 // indirect
-	google.golang.org/grpc v1.23.0 // indirect
+	google.golang.org/grpc 1.79.3 // indirect
 	gopkg.in/alexcesaro/quotedprintable.v3 v3.0.0-20150716171945-2caba252f4dc // indirect
 	gopkg.in/asn1-ber.v1 v1.0.0-20150924051756-4e86f4367175 // indirect
 	gopkg.in/editorconfig/editorconfig-core-go.v1 v1.3.0 // indirect
