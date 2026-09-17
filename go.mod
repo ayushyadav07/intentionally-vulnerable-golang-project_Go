@@ -13,7 +13,7 @@ require (
 	github.com/PuerkitoBio/goquery v1.5.0 // indirect
 	github.com/RoaringBitmap/roaring v0.4.7 // indirect
 	github.com/Unknwon/com v0.0.0-20190321035513-0fed4efef755 // indirect
-	github.com/apache/thrift v0.12.0 // indirect
+	github.com/apache/thrift 0.13.0 // indirect
 	github.com/armon/go-socks5 v0.0.0-20160902184237-e75332964ef5 // indirect
 	github.com/bgentry/speakeasy v0.1.0 // indirect
 	github.com/blevesearch/bleve v0.0.0-20190214220507-05d86ea8f6e3 // indirect
