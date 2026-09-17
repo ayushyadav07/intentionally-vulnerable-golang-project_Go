@@ -169,7 +169,7 @@ require (
 	go.etcd.io/bbolt v1.3.3 // indirect
 	go.mongodb.org/mongo-driver v1.1.1 // indirect
 	go.opencensus.io v0.22.0 // indirect
-	golang.org/x/crypto v0.0.0-20190308221718-c2843e01d9a2
+	golang.org/x/crypto 0.52.0
 	golang.org/x/image v0.0.0-20190802002840-cff245a6509b // indirect
 	golang.org/x/net v0.0.0-20200324143707-d3edc9973b7e
 	golang.org/x/sys v0.0.0-20200331124033-c3d80250170d
