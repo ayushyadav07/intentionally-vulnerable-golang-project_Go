@@ -4,7 +4,7 @@ go 1.13
 
 require (
 	cloud.google.com/go v0.40.0 // indirect
-	code.gitea.io/gitea v1.9.0-dev
+	code.gitea.io/gitea 1.12.6
 	gitea.com/lunny/levelqueue v0.1.0 // indirect
 	gitea.com/macaron/inject v0.0.0-20190805023432-d4c86e31027a
 	gitea.com/macaron/macaron v1.3.2
@@ -13,7 +13,7 @@ require (
 	github.com/PuerkitoBio/goquery v1.5.0 // indirect
 	github.com/RoaringBitmap/roaring v0.4.7 // indirect
 	github.com/Unknwon/com v0.0.0-20190321035513-0fed4efef755 // indirect
-	github.com/apache/thrift v0.12.0 // indirect
+	github.com/apache/thrift 0.13.0 // indirect
 	github.com/armon/go-socks5 v0.0.0-20160902184237-e75332964ef5 // indirect
 	github.com/bgentry/speakeasy v0.1.0 // indirect
 	github.com/blevesearch/bleve v0.0.0-20190214220507-05d86ea8f6e3 // indirect
@@ -55,7 +55,7 @@ require (
 	github.com/gliderlabs/ssh v0.2.2 // indirect
 	github.com/glycerine/go-unsnap-stream v0.0.0-20180323001048-9f0cb55181dd // indirect
 	github.com/glycerine/goconvey v0.0.0-20190315024820-982ee783a72e // indirect
-	github.com/go-gitea/gitea v1.2.3
+	github.com/go-gitea/gitea 1.7.6
 	github.com/go-kit/kit v0.9.0 // indirect
 	github.com/go-openapi/analysis v0.19.0 // indirect
 	github.com/go-openapi/inflect v0.19.0 // indirect
@@ -127,7 +127,7 @@ require (
 	github.com/philhofer/fwd v1.0.0 // indirect
 	github.com/pquerna/cachecontrol v0.0.0-20180517163645-1555304b9b35 // indirect
 	github.com/pquerna/otp v0.0.0-20160912161815-54653902c20e // indirect
-	github.com/prometheus/client_golang v1.1.0 // indirect
+	github.com/prometheus/client_golang 1.11.1 // indirect
 	github.com/prometheus/client_model v0.0.0-20190812154241-14fe0d1b01d4 // indirect
 	github.com/prometheus/procfs v0.0.4 // indirect
 	github.com/prometheus/tsdb v0.10.0 // indirect
@@ -144,7 +144,7 @@ require (
 	github.com/siddontang/go-snappy v0.0.0-20140704025258-d8f7bb82a96d // indirect
 	github.com/siddontang/ledisdb v0.0.0-20190202134119-8ceb77e66a92 // indirect
 	github.com/siddontang/rdb v0.0.0-20150307021120-fc89ed2e418d // indirect
-	github.com/sirupsen/logrus v1.4.2 // indirect
+	github.com/sirupsen/logrus 1.8.3 // indirect
 	github.com/smartystreets/assertions v1.0.1 // indirect
 	github.com/spaolacci/murmur3 v1.1.0 // indirect
 	github.com/spf13/afero v1.2.2 // indirect
@@ -158,7 +158,7 @@ require (
 	github.com/toqueteos/webbrowser v1.2.0 // indirect
 	github.com/tstranex/u2f v1.0.0 // indirect
 	github.com/ugorji/go v1.1.7 // indirect
-	github.com/unknwon/cae v1.0.0
+	github.com/unknwon/cae 1.0.1
 	github.com/unknwon/com v1.0.1
 	github.com/unknwon/i18n v0.0.0-20190805065654-5c6446a380b6 // indirect
 	github.com/unknwon/paginater v0.0.0-20151104151617-7748a72e0141 // indirect
@@ -169,14 +169,14 @@ require (
 	go.etcd.io/bbolt v1.3.3 // indirect
 	go.mongodb.org/mongo-driver v1.1.1 // indirect
 	go.opencensus.io v0.22.0 // indirect
-	golang.org/x/crypto v0.0.0-20190308221718-c2843e01d9a2
-	golang.org/x/image v0.0.0-20190802002840-cff245a6509b // indirect
-	golang.org/x/net v0.0.0-20200324143707-d3edc9973b7e
+	golang.org/x/crypto 0.52.0
+	golang.org/x/image 0.18.0 // indirect
+	golang.org/x/net 0.7.0
 	golang.org/x/sys v0.0.0-20200331124033-c3d80250170d
 	golang.org/x/tools v0.0.0-20190910221609-7f5965fd7709 // indirect
 	google.golang.org/api v0.9.0 // indirect
 	google.golang.org/genproto v0.0.0-20190819201941-24fa4b261c55 // indirect
-	google.golang.org/grpc v1.23.0 // indirect
+	google.golang.org/grpc 1.79.3 // indirect
 	gopkg.in/alexcesaro/quotedprintable.v3 v3.0.0-20150716171945-2caba252f4dc // indirect
 	gopkg.in/asn1-ber.v1 v1.0.0-20150924051756-4e86f4367175 // indirect
 	gopkg.in/editorconfig/editorconfig-core-go.v1 v1.3.0 // indirect
