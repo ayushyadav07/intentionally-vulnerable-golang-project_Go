@@ -170,7 +170,7 @@ require (
 	go.mongodb.org/mongo-driver v1.1.1 // indirect
 	go.opencensus.io v0.22.0 // indirect
 	golang.org/x/crypto 0.52.0
-	golang.org/x/image v0.0.0-20190802002840-cff245a6509b // indirect
+	golang.org/x/image 0.18.0 // indirect
 	golang.org/x/net 0.7.0
 	golang.org/x/sys v0.0.0-20200331124033-c3d80250170d
 	golang.org/x/tools v0.0.0-20190910221609-7f5965fd7709 // indirect
